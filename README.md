@@ -21,4 +21,4 @@ Where is my money? (answer in a table)
 
 What's the value of pie? (in red)
 
-
+<ol><li><p style="color:red">Cherry</p></li></ol>
