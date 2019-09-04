@@ -4,7 +4,7 @@ What weather do you preffer?
 
 Please answer my question in Italic
 
-_I prefer summer summer or spring_ - Aldo**
+_I prefer summer summer or spring_ 
 
 _I prefer winter_
 
