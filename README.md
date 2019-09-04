@@ -10,6 +10,15 @@ _I prefer winter_
 
 what is your favorite animal?(strikethrough your answer)
 
-~~Bat~~
 
-What are your 3 favorite games? (unordered list)
+~~King Kong~~
+
+Where is my money? (answer in a table)
+
+| Wallet      |
+| ------------- |
+| Monies    |
+
+What's the value of pie? (in red)
+
+
