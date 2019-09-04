@@ -11,3 +11,5 @@ _I prefer winter_
 what is your favorite animal?(strikethrough your answer)
 
 ~~King Kong~~
+
+Where is my money? (answer in a table)
