@@ -22,7 +22,7 @@ Where is my money? (answer in a table)
 What's the value of pie? (in red)
 
 ```diff
-- Cherry
+ Cherry
 ```
 
 ### Name a song you like, and include a link to it.
