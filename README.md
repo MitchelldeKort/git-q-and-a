@@ -9,4 +9,5 @@ Please answer my question in Italic
 _I prefer winter_
 
 what is your favorite animal?(strikethrough your answer)
+
 ~~King Kong~~
