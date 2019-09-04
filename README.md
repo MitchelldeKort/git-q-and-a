@@ -21,6 +21,6 @@ Where is my money? (answer in a table)
 
 What's the value of pie? (in red)
 
-<ol><li><p style="color:red;"> Cherry</p></li></ol>
+<p style="color:red;"> Cherry</p>
 
 ### Name a song you like, and include a link to it.
